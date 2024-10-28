@@ -1,0 +1,13 @@
+# Ignore environment variables and credentials
+.env
+
+# Ignore cache files
+__pycache__/
+
+# Ignore system files
+.DS_Store
+
+# Ignore virtual environment (if any)
+.venv/
+
+# Ignore notes or local files not for repository
